@@ -2,8 +2,9 @@
 # 7-Zip Portable
 
 7-ZipPortable is a portable version of the popular [7-Zip][C1] application. 7-Zip is a file archiver with a high compression ratio.
+7-ZipPortable(updated) is a more newer version of this app
 
-The main features of 7-Zip:
+The main features of 7-Zip (ya we know):
 
 * High compression ratio in 7z format with LZMA and LZMA2 compression
 * Supported formats:
